@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/StephR77/StephR77/raw/main/github-banner.png" alt="Banner" />
+</p>
 ## Hi there 👋
 
 👋Hola, mi nombre es Yury Stefany Rodríguez, aunque la gran mayoría me conocen como Steph.🙂
