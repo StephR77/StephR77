@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ## Hi there 👋
 
 👋Hola, mi nombre es Yury Stefany Rodríguez, aunque la gran mayoría me conocen como Steph.🙂
