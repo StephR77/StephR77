@@ -20,16 +20,6 @@
 
 ---
 
-## 🚀 From Language Education to Tech Innovation🤖
-
-
-I hold a strong academic background in **foreign languages**, and spent several years teaching English in Colombia. That journey sharpened my communication📣, empathy, and analytical skills — all of which naturally led me to **software quality assurance (QA)**.
-
-I discovered in QA a discipline that aligns with my strengths: **detail orientation**, **problem-solving**, and a love for building things that actually work.💓
-
-
----
-
 ## 🛠️ Technical Skills & Training🏃‍♀️
 
 
@@ -73,6 +63,15 @@ I discovered in QA a discipline that aligns with my strengths: **detail orientat
 - Automated UI tests using **Selenium, Python, Pytest**
 - Validated **forms, interface behavior, and layout design**
 - Used **GitHub** for version control and **Figma** for design comparison
+
+---
+
+## 🚀 From Language Education to Tech Innovation🤖
+
+
+I hold a strong academic background in **foreign languages**, and spent several years teaching English in Colombia. That journey sharpened my communication📣, empathy, and analytical skills — all of which naturally led me to **software quality assurance (QA)**.
+
+I discovered in QA a discipline that aligns with my strengths: **detail orientation**, **problem-solving**, and a love for building things that actually work.💓
 
 ---
 
