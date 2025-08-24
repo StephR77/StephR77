@@ -54,26 +54,16 @@
 ## 📂 Real-World Projects
 
 | Proyect  |   Description |   Link  |
-|---:   | :---:    |:---     |
-|  **Urban Grocers Regression Test** | Used to verify that all existing elements of this web application work the same way they did prior to an update.   | https://docs.google.com/spreadsheets/d/16nKVygLftrPljeUYzNd9T8PXZo-oSZX3/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true |
-|-----------------|---------------------------------------|
-| **Urban Routes Test Design** |- Descompose and visualize requerements in a mind map <br> - Define test objects using test design techniques <br> - Identify gray areas and write test cases |https://docs.google.com/document/d/1jurR5ERWKOym-nMV6iYUziU_TZ8E73N-/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true    |
-|-----------------|---------------------------------------|
-|Urban Routes web application test| - Test checklist <br> -Test case <br> - Bug report |  https://docs.google.com/document/d/1VzVl1IzPNT0vbnNLJHOLloYOSgYkI01ZtwI20vqIi_M/edit?usp=sharing   |
-|-----------------|---------------------------------------|
-|**Urban Grocers API test**     | -Create API request through Postman <br>  - Jira Reports | https://docs.google.com/spreadsheets/d/1V4UBGaeey8Nf5VzBCBopngsJjmhfLRcf/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true |
-|-----------------|---------------------------------------|
+|---:      |      :---:    |  :---   |
+|  **Urban Grocers Regression Test** | Used to verify that all existing elements of this web application work the same way they did prior to an update | https://docs.google.com/spreadsheets/d/16nKVygLftrPljeUYzNd9T8PXZo-oSZX3/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true |
+| **Urban Routes Test Design** |- Descompose and visualize requerements in a mind map <br> - Define test objects using test design techniques <br> - Identify gray areas and write test cases |https://docs.google.com/document/d/1jurR5ERWKOym-nMV6iYUziU_TZ8E73N-/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true|
+|**Urban Routes web application test**| - Test checklist <br> -Test case <br> - Bug report |  https://docs.google.com/document/d/1VzVl1IzPNT0vbnNLJHOLloYOSgYkI01ZtwI20vqIi_M/edit?usp=sharing   |
+|**Urban Grocers API test** | -Create API request through Postman <br>  - Jira Reports | https://docs.google.com/spreadsheets/d/1V4UBGaeey8Nf5VzBCBopngsJjmhfLRcf/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true |
 | **Urban Lunch mobile application testing** | - Installation and configuration of Android Studio to emulate mobile devices <br> - Test Checklist| https://docs.google.com/spreadsheets/d/1m0QbmbM9obbFlfNr9x1hAptFI-bo3zMv/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true| 
-|-----------------|---------------------------------------|
-| **Database Chicago Taxis**  |  - SQL requests         | https://docs.google.com/document/d/1JI3sAXfLY4HXIjxpvY6y8B4T5TZKLiq2/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true   |
-|-----------------|---------------------------------------|
-| **Urban Grocers**|- How to install Git <br>  - What are gitignore and README <br> - How to make a commit <br> - How to publish your code on GitHub and synchronize changes <br> - Automate checklists |         |
-|-----------------|---------------------------------------|
-| Urban Routes| Prueba automatizada con métpodo POM (Page Object Model)|
-| Urban Scooter|- Executed tests on **web and mobile** (emulators)|
-|                | - Detected bugs in **order flows, courier assignment, and data validation** |
-|                 |- Logged and tracked issues with **Jira** |
-|                 | - Verified **API behavior and database consistency**         |
+| **Database Chicago Taxis**  |  - SQL requests | https://docs.google.com/document/d/1JI3sAXfLY4HXIjxpvY6y8B4T5TZKLiq2/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true|
+| **Urban Grocers**|- How to install Git <br>  - What are gitignore and README <br> - How to make a commit <br> - How to publish your code on GitHub and synchronize changes <br> - Automate checklists |   
+| **Urban Routes**| Prueba automatizada con métpodo POM (Page Object Model)|
+| **Urban Scooter**|- Executed tests on **web and mobile** (emulators) <br> - Detected bugs in **order flows, courier assignment, and data validation** <br> - Logged and tracked issues with **Jira** <br> - Verified **API behavior and database consistency** |
 
 
 ### 🤖 Urban Grocers & Urban Routes (Automation)
