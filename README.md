@@ -53,12 +53,12 @@
 
 ## 📂 Real-World Projects
 
-| Proyect        |  | Description |                            | Link  |
-|-----:          | --:---:--      |                           |:---    |             |
+| Proyect  |   Description |   Link  |
+|-----:     --:---:--      |:---    |             
 |1 Urban Grocers| Test Automatizado con pruebas positivas     | 
 				|	y negativas en el momento de crear un kit |
-|2 Urban Routes| Prueba automatizada con métpodo POM          |
-|     3|               |
+|2 Urban Routes| Prueba automatizada con métpodo POM (Page Object Model)|
+|3 Urban Scooter|Prueba manual con Api, Visual STudio Code, Phone Emulator|
 
 ### 🔧 Urban Scooter (Manual Testing)
 - Executed tests on **web and mobile** (emulators)
