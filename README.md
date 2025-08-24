@@ -57,9 +57,7 @@
 |---:   | :---:    |:---     |
 |  Urban Grocers Regression Test | Used to verify that all existing elements of this web application work the same way they did prior to an update.   | https://docs.google.com/spreadsheets/d/16nKVygLftrPljeUYzNd9T8PXZo-oSZX3/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true |
 |                     |                        |                           |
-| Urban Routes Test Design |- Descompose and visualize requerements in a mind map | 
-|             | - Define test objects using test design techniques   |
-|             |  - Identify gray areas and write test cases | https://docs.google.com/document/d/1jurR5ERWKOym-nMV6iYUziU_TZ8E73N-/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true    |
+| **Urban Routes Test Design** |- Descompose and visualize requerements in a mind map - Define test objects using test design techniques - Identify gray areas and write test cases |https://docs.google.com/document/d/1jurR5ERWKOym-nMV6iYUziU_TZ8E73N-/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true    |
 |              |                   |                      |
 |Urban Routes web application test| - Test checklist  |
 |                                  | -Test case |
