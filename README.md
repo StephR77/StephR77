@@ -14,9 +14,13 @@
 ## 👩‍💻 About Me
 
 
-👋 I'm **Yury Stefany Rodríguez**, but you can call me **Steph**. I'm a **bilingual QA Engineer Jr.** with a unique blend of experience in education and software quality assurance.👩‍🔬
+👋 I'm **Yury Stefany Rodríguez**. 
 
-💡 I believe in **continuous learning**, human-centered technology, and the power of **asking the right questions**—especially when testing.✔️
+👩‍🏫I am a bilingual professional with over three years of experience in education and customer service, recently graduated as a QA Engineer. During this transition into technology, I developed hands-on projects such as `regression testing`, `web` and `mobile application testing`, `API validation`, and `Automation`, applying tools like **Python**, **SQL**, **Jira**, **Selenium**, **Postman**, **DevTools**, and **Android Studio**.
+
+💆‍♀️My focus has always been on ensuring that every product meets the highest quality standards, combining *attention to detail*, *analytical thinking*, and a strong passion for *continuous learning*. I firmly believe in implementing innovative solutions that improve our daily lives.
+
+🌟I am seeking new opportunities where I can apply my technical skills, grow professionally and contribute to the success of challenging projects. I would love to connect and explore how I can bring value to your team.
 
 ---
 
@@ -61,7 +65,7 @@
 |**Urban Grocers API test** | -Create API request through Postman <br>  - Jira Reports | https://docs.google.com/spreadsheets/d/1V4UBGaeey8Nf5VzBCBopngsJjmhfLRcf/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true |
 | **Urban Lunch mobile application testing** | - Installation and configuration of Android Studio to emulate mobile devices <br> - Test Checklist| https://docs.google.com/spreadsheets/d/1m0QbmbM9obbFlfNr9x1hAptFI-bo3zMv/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true| 
 | **Database Chicago Taxis**  |  - SQL requests | https://docs.google.com/document/d/1JI3sAXfLY4HXIjxpvY6y8B4T5TZKLiq2/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true|
-| **Urban Grocers**|- How to install Git <br>  - What are gitignore and README <br> - How to make a commit <br> - How to publish your code on GitHub and synchronize changes <br> - Automate checklists |   
+| **Urban Grocers**|- How to install Git <br>  - What are gitignore and README <br> - How to make a commit <br> - How to publish your code on GitHub and synchronize changes <br> - Automate checklists | https://github.com/StephR77/qa-project-Urban-Grocers-app-es |
 | **Urban Routes**| Prueba automatizada con métpodo POM (Page Object Model)|
 | **Urban Scooter**|- Executed tests on **web and mobile** (emulators) <br> - Detected bugs in **order flows, courier assignment, and data validation** <br> - Logged and tracked issues with **Jira** <br> - Verified **API behavior and database consistency** |
 
