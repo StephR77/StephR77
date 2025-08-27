@@ -16,11 +16,11 @@
 
 👋 I'm **Yury Stefany Rodríguez**. 
 
-👩‍🏫I am a bilingual professional with over three years of experience in education and customer service, recently graduated as a QA Engineer. During this transition into technology, I developed hands-on projects such as `regression testing`, `web` and `mobile application testing`, `API validation`, and `Automation`, applying tools like **Python**, **SQL**, **Jira**, **Selenium**, **Postman**, **DevTools**, and **Android Studio**.
+👩‍🏫 I am a bilingual professional with a background in education, currently transitioning into the tech field as a QA Engineer. My career has been defined by **adaptability**, **resilience**, and a **strong commitment to continuous learning**, qualities that have enabled me to successfully embrace new professional challenges.
 
-💆‍♀️My focus has always been on ensuring that every product meets the highest quality standards, combining *attention to detail*, *analytical thinking*, and a strong passion for *continuous learning*. I firmly believe in implementing innovative solutions that improve our daily lives.
+💆‍♀️ I recently completed an intensive QA Engineer bootcamp, where I worked on real-world projects such as *Urban Grocers*, *Urban Routes*, and *Urban Scooter*, applying regression testing, API validation, web and mobile testing, as well as process automation. I gained hands-on experience with tools such as **Python**, **SQL**, **Selenium**, **Postman**, **DevTools**, **Jira**, and **GitHub**, strengthening both my technical skills and my ability to ensure quality across diverse environments.
 
-🌟I am seeking new opportunities where I can apply my technical skills, grow professionally and contribute to the success of challenging projects. I would love to connect and explore how I can bring value to your team.
+🌟 I am excited to begin my career in QA, bringing my **analytical mindset**, **attention to detail**, and **passion for excellence to every project**. 🚀 I would love to connect with you and explore how I can contribute to your team by ensuring high-quality products that truly make an impact.
 
 ---
 
@@ -66,14 +66,9 @@
 | **Urban Lunch mobile application testing** | - Installation and configuration of Android Studio to emulate mobile devices <br> - Test Checklist| https://docs.google.com/spreadsheets/d/1m0QbmbM9obbFlfNr9x1hAptFI-bo3zMv/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true| 
 | **Database Chicago Taxis**  |  - SQL requests | https://docs.google.com/document/d/1JI3sAXfLY4HXIjxpvY6y8B4T5TZKLiq2/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true|
 | **Urban Grocers**|- How to install Git <br>  - What are gitignore and README <br> - How to make a commit <br> - How to publish your code on GitHub and synchronize changes <br> - Automate checklists | https://github.com/StephR77/qa-project-Urban-Grocers-app-es |
-| **Urban Routes**| Prueba automatizada con métpodo POM (Page Object Model)|
+| **Urban Routes**| Prueba automatizada con métpodo POM (Page Object Model)| https://github.com/StephR77/qa-project-Urban-Routes-es |
 | **Urban Scooter**|- Executed tests on **web and mobile** (emulators) <br> - Detected bugs in **order flows, courier assignment, and data validation** <br> - Logged and tracked issues with **Jira** <br> - Verified **API behavior and database consistency** |
 
-
-### 🤖 Urban Grocers & Urban Routes (Automation)
-- Automated UI tests using **Selenium, Python, Pytest**
-- Validated **forms, interface behavior, and layout design**
-- Used **GitHub** for version control and **Figma** for design comparison
 
 ---
 
