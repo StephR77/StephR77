@@ -67,7 +67,7 @@
 | **Database Chicago Taxis**  |  - SQL requests | https://docs.google.com/document/d/1JI3sAXfLY4HXIjxpvY6y8B4T5TZKLiq2/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true|
 | **Urban Grocers**|- How to install Git <br>  - What are gitignore and README <br> - How to make a commit <br> - How to publish your code on GitHub and synchronize changes <br> - Automate checklists | https://github.com/StephR77/qa-project-Urban-Grocers-app-es |
 | **Urban Routes**| Prueba automatizada con métpodo POM (Page Object Model)| https://github.com/StephR77/qa-project-Urban-Routes-es |
-| **Urban Scooter**|- Executed tests on **web and mobile** (emulators) <br> - Detected bugs in **order flows, courier assignment, and data validation** <br> - Logged and tracked issues with **Jira** <br> - Verified **API behavior and database consistency** |
+| **Urban Scooter**|- Executed tests on **web and mobile** (emulators) <br> - Detected bugs in **order flows, courier assignment, and data validation** <br> - Logged and tracked issues with **Jira** <br> - Verified **API behavior and database consistency** | https://docs.google.com/document/d/1piypuHlmKgqxu__SVcidriHiJPhKHnDo/edit?usp=sharing&ouid=104571361282204786141&rtpof=true&sd=true |
 
 
 ---
