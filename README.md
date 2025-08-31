@@ -72,31 +72,21 @@
 
 ---
 
-## 🚀 From Language Education to Tech Innovation🤖
+## 🚀 CERTIFICATION 🤖
 
 
-I hold a strong academic background in **foreign languages**, and spent several years teaching English in Colombia. That journey sharpened my communication📣, empathy, and analytical skills — all of which naturally led me to **software quality assurance (QA)**.
-
-I discovered in QA a discipline that aligns with my strengths: **detail orientation**, **problem-solving**, and a love for building things that actually work.💓
-
----
-
-## 🌱 What’s Next?
-
-I’m currently seeking an opportunity to grow as a **QA Tester Jr.**, contribute to impactful tech projects, and continue learning from talented engineering teams.
-
-💬 I thrive in collaborative environments where feedback, transparency, and continuous improvement are part of the culture.
+**[QA_Certificate](https://github.com/StephR77/StephR77/blob/main/QA%20Certificate.pdf)** [📥]
 
 ---
 
 ## 💬 Let’s Connect!
 
-If you’re looking for someone who’s:
-
-✅ Curious & proactive  
-✅ Detail-oriented  
-✅ Eager to learn and deliver quality  
-
-Then let’s talk! You can explore more of my work right here on my GitHub 👇  
+<p align="left">
+    <a href="https://www.linkedin.com/in/stefany-rodriguez-rodriguez/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/StephR77" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
+    </a>  
 
 ---
